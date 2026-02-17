@@ -2,7 +2,7 @@
   <img src="banner.png" width="250">
 </p>
 
-<h1 align="center">AlphaRecon 🔥</h1>
+<h1 align="center">AlphaRecon</h1>
 
 <p align="center">
   Recon & Kali Automation Toolkit for Cybersecurity Students
