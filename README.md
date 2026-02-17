@@ -1,7 +1,14 @@
-# AlphaRecon 🔥
+<p align="center">
+  <img src="banner.png" width="250">
+</p>
 
-Recon & Kali Automation Toolkit for cyber security students
+<h1 align="center">AlphaRecon 🔥</h1>
 
+<p align="center">
+  Recon & Kali Automation Toolkit for Cybersecurity Students
+</p>
+
+---
 ---
 
 ## 📸 Preview
